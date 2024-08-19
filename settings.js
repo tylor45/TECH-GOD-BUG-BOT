@@ -10,7 +10,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "910000000000"
+global.ownernomer = "254748840328"
 global.ownername = "𝗸⃪𝗶⃪𝗻⃪𝗴⃪ 𝗧⃪𝘆⃪𝗹⃪𝗼⃪𝗿⃪"
 global.ytname = "YT:𝗧⃪𝘆⃪𝗹⃪𝗼⃪𝗿⃪ 𝗞⃪9"
 global.socialm = "GitHub: techgod143"
@@ -22,10 +22,10 @@ global.botname = '𝗧⃪𝘆⃪𝗹⃪𝗼⃪𝗿⃪ 𝗠⃪𝗱⃪' //name of 
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '𝗧⃪𝘆⃪𝗹⃪𝗼⃪𝗿⃪\n\nContact: +25448840328'
+global.author = '𝗧⃪𝘆⃪𝗹⃪𝗼⃪𝗿⃪\n\nContact: +254748840328'
 
 //console view/theme
-global.themeemoji = '🪀'
+global.themeemoji = '🦫'
 global.wm = "Youtube Tech God."
 
 //theme link
